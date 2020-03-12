@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case untuk gambar di atas 2 MB</description>
+   <name>Tambah Gambar Di Atas 2 MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a744886-d15d-4e09-885e-cde95279e315</testCaseGuid>
+</TestCaseEntity>

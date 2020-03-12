@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case untuk menyimpan harga produk dengan panjang karakter null</description>
+   <name>Tambah Product Price Null</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a772bbd4-bcd5-4b15-8598-90cb5baabcac</testCaseGuid>
+</TestCaseEntity>

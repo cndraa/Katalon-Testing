@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case untuk menyimpan deskripsi produk dengan panjang karakter 65.535</description>
+   <name>Tambah Isi Deskripsi 65.536</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58e7e8c2-09b1-47c0-966c-81e753fab1a2</testCaseGuid>
+</TestCaseEntity>
