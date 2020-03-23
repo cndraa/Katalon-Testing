@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case for testing flow of searching user IG</description>
+   <name>Searching User Instagram</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1015483b-4e5c-41a9-8a6e-8baf4300b4fe</testCaseGuid>
+</TestCaseEntity>
